@@ -269,21 +269,21 @@ section .title::after,
 	color: #fff;
 	background: #111;
 }
-.services .title::before,
-.gallery .title::before,
-.contact .title::before{
+
+.gallery .title::before{
 	background: #fff;
 }
-.services .title::after,
-.gallery .title::after,
-.contact .title::after{
+
+.gallery .title::after{
 	background: #111;
-	content: "what i learned";
+	/* content: "what i made"; */
 }
 
 /*gallery from team  section styling*/
 .gallery .title::after{
 	content: "what i made";
+	width: 150px;
+	
 }
   /* Create two equal columns that floats next to each other */
   .column {
