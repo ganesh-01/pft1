@@ -1101,6 +1101,17 @@ footer span a:hover{
 	}
 	
 }
+@media (max-width: 368px){
+	#abtimg{
+		width: 100%;
+		height: auto;
+		justify-content: center;
+	}
+	.teams .carousel .card{
+		height: 450px;
+	}
+}
+
 @media (max-width: 320px){
 	#abtimg{
 		width: 300px;
