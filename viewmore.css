@@ -634,3 +634,13 @@ footer span a:hover{
 	h2, h3{
 	font-size: 8px;
 }
+@media (max-width: 610px){
+	#gtext{
+		font-size: 15px;
+	}
+}
+@media (max-width: 450px){
+	#gtext{
+		font-size: 12px;
+	}
+}
