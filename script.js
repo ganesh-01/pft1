@@ -36,14 +36,14 @@ document.addEventListener('DOMContentLoaded', (e)=>{
 
 	//typing animation script
 	var typed = new Typed(".typing", {
-		strings: ["Chemistry Student But...", "Freelance Designer", "Front-End Developer", "Android App Developer", "Photography Lover"],
+		strings: ["Chemistry Student But...", "Freelance Designer", "Front-End Developer", "Photography Lover"],
 		typeSpeed: 100,
 		backSpeed: 60,
 		loop: true,
 	});
 
 	var typed = new Typed(".typing-2", {
-		strings: ["Chemistry Student But...", "Freelance Designer", "Front-End Developer", "Android App Developer", "Photography Lover"],
+		strings: ["Chemistry Student But...", "Freelance Designer", "Front-End Developer", "Photography Lover"],
 		typeSpeed: 100,
 		backSpeed: 60,
 		loop: true,
